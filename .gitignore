@@ -105,3 +105,4 @@ dist
 
 arena.env
 development.env
+package-lock.json
